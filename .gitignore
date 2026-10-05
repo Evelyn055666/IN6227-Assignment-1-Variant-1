@@ -1,0 +1,5 @@
+.venv/
+dataset/
+assignment1_results/
+__pycache__/
+.DS_Store
