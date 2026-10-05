@@ -3,7 +3,7 @@
 # Plain-text display lets the same cells run outside Jupyter.
 display = print
 
-# IN6227 Assignment 1 Variant 1 Starter
+# IN6227 Assignment 1 Variant 1: final reproducible analysis
 
 # 1. Setup and load the provided data
 
